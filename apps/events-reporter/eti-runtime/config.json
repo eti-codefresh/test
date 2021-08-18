@@ -1,0 +1,1 @@
+{"appName":"events-reporter","userGivenName":"events-reporter","destNamespace":"eti-runtime","destServer":"https://kubernetes.default.svc","srcPath":"apps/events-reporter/eti-runtime/resources","srcRepoURL":"https://github.com/eti-codefresh/test.git","srcTargetRevision":"","labels":{"codefresh_io_entity":"component"}}
